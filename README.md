@@ -163,3 +163,5 @@ Si quieres unirte a nuestra comunidad de desarrollo, aprender programación, mej
 [![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-14a1f0?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev) [![Web](https://img.shields.io/badge/GitHub-MoureDev-087ec4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
 
 Editado por: Lissandra Meza
+
+Práctica de ramas en Git
