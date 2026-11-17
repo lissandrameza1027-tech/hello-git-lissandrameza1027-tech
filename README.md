@@ -165,3 +165,8 @@ Si quieres unirte a nuestra comunidad de desarrollo, aprender programación, mej
 Editado por: Lissandra Meza
 
 Práctica de ramas en Git
+
+### Mi experiencia aprendiendo Git
+
+Al principio usar la consola negra me daba un poco de respeto porque estaba acostumbrada a hacer todo con clics y ventanas, pero conforme fui probando los comandos básicos me di cuenta de que todo tiene bastante lógica. Entender cómo funciona el ciclo de modificar un archivo, prepararlo con `git add` y guardar una versión con `git commit` me ayudó a perderle el miedo a equivocarme. También me pareció muy útil crear una rama aparte con `git checkout -b` para probar cambios sin afectar el proyecto principal y luego unirlo todo con `git merge` antes de subirlo a GitHub.
+
